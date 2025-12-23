@@ -38,14 +38,10 @@ Junior DevOps Engineer building reliable cloud infrastructure, CI/CD pipelines, 
 - **Medusa MCP tooling** — admin automation + integrations  
   *(tooling, APIs, operational workflows)*
 
-> Pin 3–6 repos above that best represent your work. Make it easy to evaluate you in 30 seconds.
-
+See my other featured work in pinned repos
 ---
 
-## GitHub activity
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Aleksandergreg&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandergreg&layout=compact)
+## 📈 GitHub Activity ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aleksandergreg&show_icons=true&hide_title=true)
 
 ---
 
