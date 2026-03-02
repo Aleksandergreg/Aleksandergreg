@@ -1,0 +1,33 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="strip-bg" x1="0" y1="0" x2="1200" y2="170" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#0B1320"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="360" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="10" y="10" width="1180" height="150" rx="24" fill="url(#strip-bg)"/>
+  <text x="64" y="58" fill="#BAE6FD" font-size="20" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Live Focus</text>
+  <rect x="64" y="69" width="360" height="4" rx="2" fill="url(#line)"/>
+
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="28" fill="#E2E8F0">
+    <g opacity="1">
+      <text x="64" y="118">I build cloud platforms that ship faster and fail less.</text>
+      <animate attributeName="opacity" values="1;1;0;0;0;0" keyTimes="0;0.3;0.34;0.66;0.7;1" dur="12s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0">
+      <text x="64" y="118">Infrastructure as Code | Kubernetes | CI/CD | Observability.</text>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3;0.34;0.62;0.66;1" dur="12s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0">
+      <text x="64" y="118">Pragmatic automation, clean operations, reliable delivery.</text>
+      <animate attributeName="opacity" values="0;0;0;0;1;1" keyTimes="0;0.62;0.66;0.94;0.98;1" dur="12s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

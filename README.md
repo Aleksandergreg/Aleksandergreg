@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0EA5E9,100:14B8A6&text=Aleksander%20Gregersen&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Platform%20%26%20Reliability&descAlignY=55&descSize=16" />
+  <img src="./assets/header.svg" alt="Aleksander Gregersen banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=1100&color=0EA5E9&center=true&vCenter=true&width=920&lines=I+build+cloud+platforms+that+ship+faster+and+fail+less.;Infrastructure+as+Code+%7C+Kubernetes+%7C+CI%2FCD+%7C+Observability.;Pragmatic+automation%2C+clean+operations%2C+reliable+delivery." />
+  <img src="./assets/focus-strip.svg" alt="Current focus: Terraform IaC, Kubernetes, CI/CD, Prometheus and Grafana" width="100%" />
 </p>
 
 <p align="center">
@@ -48,8 +48,8 @@ Junior DevOps Engineer focused on reliability, developer experience, and automat
 ## GitHub Snapshot
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aleksandergreg&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandergreg&layout=compact&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aleksandergreg&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=43200" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandergreg&layout=compact&hide_border=true&langs_count=8&cache_seconds=43200" />
 </p>
 
 <p>
