@@ -36,26 +36,3 @@ Junior DevOps Engineer focused on reliability, developer experience, and automat
 | Engineering | TypeScript/Node.js, Java, Spring Boot |
 | Frontend | React, React Native, Svelte |
 | Data | PostgreSQL, MySQL/MariaDB, MSSQL, MongoDB, Redis, BullMQ |
-
-## Featured Work
-
-- **AI-search / Dynasearch**  
-  Hybrid search platform with infrastructure, queueing, and observability baked in.
-
-- **Medusa MCP tooling**  
-  Admin automation and integration workflows focused on operational reliability.
-
-## GitHub Snapshot
-
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aleksandergreg&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=43200" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandergreg&layout=compact&hide_border=true&langs_count=8&cache_seconds=43200" />
-</p>
-
-<p>
-  <img width="99%" src="https://streak-stats.demolab.com?user=Aleksandergreg&hide_border=true" />
-</p>
-
----
-
-`Infra as code. Observable systems. Fast feedback loops.`
