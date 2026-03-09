@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/header.svg" alt="Aleksander Gregersen banner" width="100%" />
 </p>
 
@@ -35,4 +35,4 @@ Junior DevOps Engineer focused on reliability, developer experience, and automat
 | Delivery | CI/CD pipelines, automated releases, container workflows |
 | Engineering | TypeScript/Node.js, Java, Spring Boot |
 | Frontend | React, React Native, Svelte |
-| Data | PostgreSQL, MySQL/MariaDB, MSSQL, MongoDB, Redis, BullMQ |
+| Data | PostgreSQL, MySQL/MariaDB, MSSQL, MongoDB, Redis, BullMQ | -->
